@@ -1,0 +1,1 @@
+import{o as e,c as _}from"./app.69fd7e11.js";import{_ as t}from"./plugin-vue_export-helper.21dcd24c.js";const r={},o={src:"https://graph-controller-demo.yeger.eu",title:"Demo",width:"100%"};function c(a,s){return e(),_("iframe",o)}var d=t(r,[["render",c],["__scopeId","data-v-649219ec"]]);export{d as default};
